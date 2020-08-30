@@ -1,6 +1,6 @@
 ### Hi there, I'm Matthew 👋
 
-## I have a background in Psychology and Statistics. 
+#### I have a background in Psychology and Statistics. 
 
 - 🔭 I’m currently comparing statistical and machine learning models.
 - 🌱 I’m currently learning anything related to data analytics / data science. 

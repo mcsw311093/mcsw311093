@@ -2,6 +2,8 @@
 
 #### I have a background in Psychology and Statistics. 
 
+Most of these projects are still work in progress, so pardon the mess. 
+
 - 🔭 I’m currently comparing statistical and machine learning models.
 - 🌱 I’m currently learning anything related to data analytics / data science. 
 - 👯 I’m looking to collaborate on data related projects.

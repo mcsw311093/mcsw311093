@@ -15,3 +15,4 @@ Most of these projects are still work in progress, so pardon the mess.
 - 🤔 I’m looking for help with reviewing my projects.
 
 -->
+For the best experience with Jupyter Notebooks, please open with nbviewer (Options: http://jiffyclub.github.io/open-in-nbviewer/).

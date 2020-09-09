@@ -9,6 +9,7 @@ Most of these projects are still work in progress, so pardon the mess.
 - 👯 I’m looking to collaborate on data related projects.
 - 📫 How to reach me: https://www.linkedin.com/in/swmchiu/
 - ⚡ Fun fact: I like challenges. 
+- :vertical_traffic_light:
 <!--
 - 💬 Ask me about ...
 - 😄 Pronouns: ...

@@ -1,4 +1,4 @@
-### Hi there, I'm Matthew 👋🇨🇦🇭🇰🇬🇧
+### Hi there, I'm Matthew 👋🇨🇦 🇭🇰 🇬🇧
 
 #### I have a background in Psychology and Statistics. 
 
